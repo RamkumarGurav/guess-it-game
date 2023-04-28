@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guess-it-game/static/css/main.d54d7e59.css",
+    "main.js": "/guess-it-game/static/js/main.faa71a9b.js",
+    "index.html": "/guess-it-game/index.html",
+    "main.d54d7e59.css.map": "/guess-it-game/static/css/main.d54d7e59.css.map",
+    "main.faa71a9b.js.map": "/guess-it-game/static/js/main.faa71a9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d54d7e59.css",
+    "static/js/main.faa71a9b.js"
+  ]
+}
